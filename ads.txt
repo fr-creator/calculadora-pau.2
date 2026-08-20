@@ -1,0 +1,4 @@
+# Sustituye la línea de abajo por la que te da Google AdSense
+# al crear tu cuenta (Cuenta > Información de la cuenta > "ads.txt").
+# Tendrá este formato exacto, con TU pub-ID:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
